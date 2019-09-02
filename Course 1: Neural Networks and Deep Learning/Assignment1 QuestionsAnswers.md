@@ -66,8 +66,8 @@ ans: 1,3
  y-axis (vertical axis) is the performance of the algorithm.\
  ans: 4
 #### Question 10:  Question 10 Assuming the trends described in the previous question's figure are accurate (and hoping you got the axis labels right), which of the following are true? (Check all that apply.)
-1.Decreasing the size of a neural network generally does not hurt an algorithm’s performance, and it may help significantly.
-2.Decreasing the training set size generally does not hurt an algorithm’s performance, and it may help significantly.
-3.Increasing the training set size generally does not hurt an algorithm’s performance, and it may help significantly.
+1.Decreasing the size of a neural network generally does not hurt an algorithm’s performance, and it may help significantly.\
+2.Decreasing the training set size generally does not hurt an algorithm’s performance, and it may help significantly.\
+3.Increasing the training set size generally does not hurt an algorithm’s performance, and it may help significantly.\
 4.Increasing the size of a neural network generally does not hurt an algorithm’s performance, and it may help significantly.\
 ans: 3,4
