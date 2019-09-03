@@ -26,7 +26,7 @@ c = a + b
 1. c.shape = (2, 3)
 2. c.shape = (2, 1)
 3. c.shape = (3, 2)
-4. The computation cannot happen because the sizes don't match. It's going to be "Error"!
+4. The computation cannot happen because the sizes don't match. It's going to be "Error"!\
 ans : 1
 #### Question5 : Consider the two following random arrays "a" and "b":
  a.shape = (4, 3)
@@ -38,13 +38,13 @@ c = a*b
 1. The computation cannot happen because the sizes don't match. It's going to be "Error"!
 2. c.shape = (4, 3)
 3. c.shape = (4,2)
-4. c.shape = (3, 3)
+4. c.shape = (3, 3)</br>
 ans : 1
 #### Question6: Suppose you have n_xn input features per example. Recall that X = [x^{(1)} x^{(2)} ... x^{(m)}]X=[x (1) x (2)...x (m)]. What is the dimension of X?
 1.(m,nx) </br>
 2.(m,1)</br>
 3.(1,m)
-4.(nx, m)
+4.(nx, m)</br>
 ans : 4
 #### Question7 : Recall that "np.dot(a,b)" performs a matrix multiplication on a and b, whereas "a*b" performs an element-wise multiplication.
 #### Consider the two following random arrays "a" and "b":
@@ -57,7 +57,7 @@ What is the shape of c?
 1. c.shape = (12288, 45)
 2. c.shape = (150,150)
 3. The computation cannot happen because the sizes don't match. It's going to be "Error"!
-4. c.shape = (12288, 150)
+4. c.shape = (12288, 150)</br>
 ans : 1
 #### Question8 : Consider the following code snippet:
 a.shape = (3,4)
@@ -88,5 +88,5 @@ ans : 1
 1. J = (c - 1)*(b + a)
 2. J = (a - 1) * (b + c)
 3. J = a*b + b*c + a*c
-4. J = (b - 1) * (c + a)
+4. J = (b - 1) * (c + a)</br>
 ans : 2
